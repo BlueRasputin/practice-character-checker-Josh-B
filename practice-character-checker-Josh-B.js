@@ -1,12 +1,4 @@
 const readline = require('readline-sync');
-// let gregarious = "gregarious";
-// let ans = readline.question("What is the letter at index position 8 in the word gregarious?")
-
-// if (ans == gregarious[8]) {
-//     console.log("Correct! " + ans + " is the letter at index position 8 in the word gregarious")   
-// } else {
-//     console.log("Incorrect! " + ans + " is not the letter at index position 8 in the word gregarious")
-// }
 
 
 //Step 1: ask the user for a word or phrase
